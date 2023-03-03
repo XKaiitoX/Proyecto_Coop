@@ -1,0 +1,66 @@
+h1{
+    font-family: 'Tilt Warp', cursive;
+    text-align: center;
+    color: yellow;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: blue;
+    size: 50%;
+}
+
+hr{
+    border-color: aqua;
+    border-radius: 80%;
+    border-style: double;
+    
+
+}
+
+.span-html{
+    display: flex;
+    justify-content: center;
+    color: orange;
+}
+
+.span-css{
+    display: flex;
+    justify-content: center;
+
+}
+
+.span-git{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    display: flex;
+    justify-content: center;
+}
+
+.letra{
+    color: black;
+    font-family: 'Anton', sans-serif;
+
+}
+h2{
+    display: flex;
+    justify-content: center;
+    color: gold;
+    font-family: 'Rubik Iso', cursive;
+
+}
+
+.tabla{
+    background-color: rgba(255, 251, 251, 0.89);
+}
+
+body{
+   background-image: url(https://www.xtrafondos.com/wallpapers/saturno-y-otros-planetas-3912.jpg);
+}
+
+.cuerpo{
+    font-family: 'Anton', sans-serif;
+    color: blue;
+}
+
+
